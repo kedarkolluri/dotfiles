@@ -9,9 +9,11 @@ location: https://www.gnu.org/software/emacs/manual/html_node/efaq/Installing-Em
 
 ## make emacs work for c++
 * reference: https://emacs-lsp.github.io/lsp-mode/tutorials/CPP-guide/
-* we will need clangd, 9+ is better but at least 7.0+ is required.
-* 
 essentially, we should first compile the project 
+* we will need clangd, 9+ is better but at least 7.0+ is required.
+* install bear from repo or from source 
+  * git clone https://github.com/rizsotto/Bear.git and
+  * https://github.com/rizsotto/Bear/blob/master/INSTALL.md
 
 ## make emacs work for brazil c++
 

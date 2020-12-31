@@ -1,0 +1,1 @@
+* CFLAGS="-ggdb3 -O0" CXXFLAGS="-ggdb3 -O0" LDFLAGS="-ggdb3" will compile Emacs with debug symbols
