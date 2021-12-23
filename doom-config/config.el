@@ -78,8 +78,12 @@
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
 
+;; on dev-dsk using youcompleteme stuff
+;; (setq lsp-clients-clangd-executable
+;;      "/local/apollo/env/YouCompleteMeBuilder/bin/x86_64-unknown-linux-gnu-clangd")
+
 (after! lsp-clangd
-  (set-lsp-priority! 'clangd 1))
+  (set-lsp-priority! 'clangd 2))
 (use-package! undo-tree
   :config
   (global-undo-tree-mode 1))

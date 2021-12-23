@@ -4,8 +4,9 @@ location: https://www.gnu.org/software/emacs/manual/html_node/efaq/Installing-Em
 * you probably will need gnutls and few other stuff 
 
 ## install doom 
+* https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org
 * git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d && ~/.emacs.d/bin/doom install
-
+* copy files in doom-config to .doom/ and doom sync (doom is in ~/.emacs.d/bin/)
 
 ## make emacs work for c++
 * reference: https://emacs-lsp.github.io/lsp-mode/tutorials/CPP-guide/
