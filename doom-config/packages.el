@@ -53,4 +53,4 @@
 (package! comment-dwim-2)
 (package! multi-term)
 ;; https://github.com/grafov/rust-playground
-(pacakge! rust-playground)
+(package! rust-playground)
