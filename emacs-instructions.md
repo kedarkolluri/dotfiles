@@ -16,8 +16,4 @@ essentially, we should first compile the project
   * git clone https://github.com/rizsotto/Bear.git and
   * https://github.com/rizsotto/Bear/blob/master/INSTALL.md
 
-## make emacs work for brazil c++
-
 ## make emacs work for python
-
-## make emacs work for brazil python
