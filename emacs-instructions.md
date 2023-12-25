@@ -1,7 +1,6 @@
 ## install emacs
-location: https://www.gnu.org/software/emacs/manual/html_node/efaq/Installing-Emacs.html
-27.1: wget https://ftp.gnu.org/pub/gnu/emacs/emacs-27.1.tar.gz
-* you probably will need gnutls and few other stuff 
+install eamcs 29plus
+on mac: brew install emacs-plus@29 --with-native-comp --with-modern-doom3-icon --with-xwidgets --with-no-frame-refocus --with-modern-pen-icon
 
 ## install doom 
 * https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org
